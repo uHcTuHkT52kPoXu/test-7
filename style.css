@@ -1,0 +1,18 @@
+h1 {
+font-family: Times New Roman;
+color: #663399;
+}
+h2 {
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size:medium;
+color: #990000;
+}
+h3 {
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size:medium;
+color: #369e0c;
+}
+p:: first-line {
+font-size: 120%;
+font-weight: bold;
+}
